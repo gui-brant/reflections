@@ -1,4 +1,5 @@
-#Reflections
+# Reflections
+
 I've created this section partly out of a desire I've had since starting therapy in my childhood, and partly inspired by Marcus Aurelius' Meditations.
 
 For a long time now, I've considered documenting my internal conversations as a way to reinforce philosophical principles, track my mindset, and guide its growth toward a desired state.
